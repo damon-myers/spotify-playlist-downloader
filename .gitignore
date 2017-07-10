@@ -1,0 +1,9 @@
+# Spotify API key and secret
+config.json
+
+# virtualenv folders
+bin/
+include/
+lib/
+pip-selfcheck.json
+
