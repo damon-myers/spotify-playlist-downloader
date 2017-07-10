@@ -1,6 +1,6 @@
 # playlist-downloader
 
-A python program that uses the Spotify Web API to download a user's public playlists as JSON.
+A python program that uses the Spotify Web API to download a user's public playlist metadata as JSON.
 
 # Usage
 
